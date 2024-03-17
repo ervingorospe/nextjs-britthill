@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/app/*": ["./app/*"],
+      "@/function/*": ["./lib/function/*"],
+      "@/components/*": ["./app/components/*"],
+      "@/api/*": ["./lib/api/*"],
+    }
+  }
+}

@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.britthillinteriors.com/
+
+# Sitemaps
+Sitemap: https://www.britthillinteriors.com/sitemap.xml
